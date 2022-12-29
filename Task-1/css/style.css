@@ -1,0 +1,261 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  background: transparent;
+  font-weight: normal;
+  text-decoration: none;
+  outline: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+ol,
+ul {
+  list-style: none;
+}
+del {
+  text-decoration: line-through;
+}
+body {
+  font-family: "GT-Eesti", Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  color: #253858;
+  overflow-x: hidden;
+  min-width: 320px;
+  font-weight: 500;
+}
+input,
+textarea,
+select {
+  font-family: "GT-Eesti", Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+a {
+  color: #253858;
+}
+a:hover,
+.submit:hover {
+  filter: alpha(opacity = 85);
+  -moz-opacity: 0.85;
+  -khtml-opacity: 0.85;
+  opacity: 0.85;
+}
+.thumb {
+  display: block;
+}
+.thumb img {
+  display: block;
+  width: 100%;
+}
+p {
+  line-height: 1.6em;
+  font-size: 16px;
+  font-family: "GT-Eesti", Arial;
+  font-weight: 500;
+  color: #42526e;
+}
+.hidden {
+  display: none;
+}
+br.clear {
+  clear: both;
+  line-height: 0;
+}
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("Inter-Medium.woff2") format("woff2"),
+    url("Inter-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("Inter-Regular.woff2") format("woff2"),
+    url("Inter-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+::placeholder {
+  color: #a6ff34;
+  opacity: 1;
+}
+
+:-ms-input-placeholder {
+  color: #a6ff34;
+}
+
+::-ms-input-placeholder {
+  color: #a6ff34;
+}
+
+header {
+  background: url(../Assets/spot\ light.jpg);
+  height: 825px;
+}
+
+header .wrapper {
+}
+
+header .wrapper section.head {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5px;
+}
+
+header .wrapper section.head .left {
+  font-size: 15px;
+  display: flex;
+  padding-top: 20px;
+}
+
+header .wrapper section.head .left h1 {
+}
+
+header .wrapper section.head .left h1 a {
+}
+
+header .wrapper section.head .left h1 a img {
+  color: #fff;
+}
+
+header .wrapper section.head .middle {
+  display: flex;
+  justify-content: center;
+}
+
+header .wrapper section.head .middle ul {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+  width: 500px;
+}
+
+header .wrapper section.head .middle ul li {
+  margin-left: 20px;
+  padding-top: 35px;
+}
+
+header .wrapper section.head .middle ul li a {
+  color: #e8e8e8;
+  align-items: center;
+}
+
+header .wrapper section.head .right {
+}
+
+header .wrapper section.head .right ul {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+header .wrapper section.head .right ul li {
+  margin-left: 20px;
+  padding-top: 35px;
+}
+header .wrapper section.head .right ul li a {
+  color: #e8e8e8;
+}
+header .wrapper section.head .right ul li a.button {
+  background: #e8e8e8;
+  border-radius: 20px;
+  width: 20px;
+  padding: 12px 12px;
+  color: #0b0a0a;
+  font-weight: bold;
+}
+.bottom {
+}
+.bottom .container {
+}
+.bottom .container h1 {
+  padding: 50px;
+  font-size: 50px;
+  color: #e8e8e8;
+  font-weight: 600px;
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+}
+.bottom .container p {
+  font-size: 15px;
+  color: #605d4a;
+  margin: 0 auto;
+  width: 36%;
+  margin-bottom: 30px;
+}
+.bottom .container .btn-div {
+  text-align: center;
+}
+.bottom .container .btn-div .button {
+  font-size: 20px;
+  background: #a6ff34;
+  border-radius: 20px;
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 0 auto;
+  font-weight: bold;
+  color: #0b0a0a;
+  margin-left: 91px;
+}
+.bottom .container .button span {
+}
+.bottom .container .button span img {
+  text-align: center;
+}
+
+.sticker {
+  position: relative;
+  text-align: center;
+}
+.sticker div.one {
+  position: absolute;
+  transform: rotate(-15deg);
+  left: 310px;
+  top: 109px;
+}
+.sticker div.one img {
+  width: 209px;
+  display: block;
+}
+.sticker div.two {
+  position: absolute;
+  transform: rotate(-1eg);
+  right: 676px;
+  top: 130px;
+}
+.sticker div.two img {
+  width: 203px;
+  display: block;
+}
+.sticker div.three {
+  position: absolute;
+  transform: rotate(-1deg);
+  right: 527px;
+  top: 92px;
+}
+.sticker div.three img {
+  width: 203px;
+  display: block;
+}
+.sticker div.four {
+  position: absolute;
+  transform: rotate(6deg);
+  right: 359px;
+  top: 140px;
+}
+.sticker div.four img {
+  width: 203px;
+  display: block;
+}

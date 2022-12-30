@@ -414,3 +414,169 @@ header .wrapper section.head .right ul li a.button {
 #images section.find div.container div img {
   width: 68%;
 }
+
+#platform {
+  background: #e8e8e8;
+  /* height: 100vh; */
+}
+
+#platform h1 {
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 40px;
+  color: #0b0a0a;
+  padding-top: 70px;
+}
+
+#platform .trend {
+}
+
+#platform .trend .fig {
+  display: flex;
+  padding: 50px;
+  margin-left: 10%;
+}
+#platform .trend .fig div {
+  background: #fff;
+  border-radius: 20px;
+  width: 120px;
+  height: 120px;
+  position: relative;
+  margin-right: 20px;
+}
+#platform .trend .fig div img {
+  display: block;
+  width: 100%;
+}
+#platform .trend .fig .facebook {
+}
+
+#platform .trend .fig div.facebook img {
+  width: 80px;
+  top: 18px;
+  right: 12px;
+  position: absolute;
+}
+
+#platform .trend .fig div.twitter {
+  background: #a6ff34;
+}
+
+#platform .trend .fig .twitter img {
+  width: 80px;
+  top: 18px;
+  right: 12px;
+  position: absolute;
+}
+
+#platform .trend .fig .dribble {
+}
+
+#platform .trend .fig .dribble img {
+  width: 80px;
+  top: 18px;
+  right: 12px;
+  position: absolute;
+}
+
+#platform .trend .fig .git {
+}
+
+#platform .trend .fig .git img {
+  width: 80px;
+  top: 18px;
+  right: 12px;
+  position: absolute;
+}
+
+#platform .trend .fig .company {
+}
+
+#platform .trend .fig .company img {
+  width: 80px;
+  top: 18px;
+  right: 12px;
+  position: absolute;
+}
+
+#platform .trend .fig .pinrest {
+}
+
+#platform .trend .fig .pinrest img {
+  width: 80px;
+  top: 18px;
+  right: 12px;
+  position: absolute;
+}
+
+#platform .trend .fig .linkedin {
+}
+
+#platform .trend .fig .linkedin img {
+  width: 80px;
+  top: 18px;
+  right: 12px;
+  position: absolute;
+}
+
+#platform .trend .fig .vk {
+}
+
+#platform .trend .fig .vk img {
+  width: 80px;
+  top: 18px;
+  right: 12px;
+  position: absolute;
+}
+
+#platform .trend .post {
+  margin-right: 20px;
+}
+
+#platform .trend .post img {
+  width: 60%;
+}
+
+#platform .trend .post {
+  margin-left: 25%;
+}
+
+#platform .trend .post .one {
+}
+
+#platform .trend .post .one img {
+  width: 70%;
+}
+
+#platform .trend .post .two {
+}
+
+#platform .trend .post .two img {
+  width: 70%;
+}
+
+#platform .trend .post .three {
+}
+
+#platform .trend .post .three img {
+  width: 70%;
+}
+
+#platform .trend ul {
+  margin-top: 70px;
+}
+
+#platform .trend ul li {
+}
+div.platform-button {
+  text-align: center;
+  padding: 3%;
+}
+div.platform-button button {
+  background: #000;
+  color: #fff;
+  padding: 2%;
+  border-radius: 35px;
+  width: 11%;
+}

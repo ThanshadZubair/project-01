@@ -292,7 +292,7 @@ header .wrapper section.head .right ul li a.button {
 
 #open .tab .right {
   position: absolute;
-  right: 417px;
+  right: 362px;
 }
 
 #open .tab .right img {
@@ -300,7 +300,7 @@ header .wrapper section.head .right ul li a.button {
 
 #open .tab .left {
   position: absolute;
-  left: 526px;
+  left: 455px;
 }
 
 #open .tab .left img {
@@ -435,15 +435,15 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig {
   display: flex;
   padding: 50px;
-  margin-left: 10%;
+  margin-left: 1%;
 }
 #platform .trend .fig div {
   background: #fff;
   border-radius: 20px;
   width: 120px;
-  height: 120px;
+  height: 118px;
   position: relative;
-  margin-right: 20px;
+  margin-right: 34px;
 }
 #platform .trend .fig div img {
   display: block;
@@ -455,7 +455,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig div.facebook img {
   width: 80px;
   top: 18px;
-  right: 12px;
+  right: 21px;
   position: absolute;
 }
 
@@ -466,7 +466,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .twitter img {
   width: 80px;
   top: 18px;
-  right: 12px;
+  right: 21px;
   position: absolute;
 }
 
@@ -476,7 +476,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .dribble img {
   width: 80px;
   top: 18px;
-  right: 12px;
+  right: 21px;
   position: absolute;
 }
 
@@ -486,7 +486,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .git img {
   width: 80px;
   top: 18px;
-  right: 12px;
+  right: 21px;
   position: absolute;
 }
 
@@ -496,7 +496,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .company img {
   width: 80px;
   top: 18px;
-  right: 12px;
+  right: 21px;
   position: absolute;
 }
 
@@ -506,7 +506,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .pinrest img {
   width: 80px;
   top: 18px;
-  right: 12px;
+  right: 21px;
   position: absolute;
 }
 
@@ -516,7 +516,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .linkedin img {
   width: 80px;
   top: 18px;
-  right: 12px;
+  right: 21px;
   position: absolute;
 }
 
@@ -526,7 +526,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .vk img {
   width: 80px;
   top: 18px;
-  right: 12px;
+  right: 21px;
   position: absolute;
 }
 

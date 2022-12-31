@@ -732,3 +732,70 @@ div.button-bottom {
   text-align: center;
   border-radius: 35px;
 }
+#footer {
+  background: #a6ff34;
+  height: 60vh;
+  padding: 100px 50px 50px;
+}
+
+#footer .foot {
+}
+
+#footer .foot h1 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #0b0a0a;
+  width: 47%;
+  margin-left: 30%;
+  padding: 35px;
+}
+
+#footer .foot h1 span {
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(45 255 45);
+}
+
+#footer .button {
+  font-size: 15px;
+  background: #0b0a0a;
+  border-radius: 25px;
+  width: 20px;
+  padding: 15px 30px;
+  margin-left: 47%;
+  color: #fff;
+}
+#bottom {
+  display: flex;
+  justify-content: space-between;
+  padding: 23px 50px;
+}
+
+#bottom .left {
+  width: 15%;
+}
+
+#bottom .left img {
+  /* margin-left: 40%; */
+  width: 100%;
+  display: block;
+  /* padding: 50px; */
+}
+
+#bottom .right {
+}
+
+#bottom .right ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+#bottom .right ul li {
+  margin-left: 20px;
+}
+#bottom .right ul li:first-child {
+  margin-left: 0px;
+}
+#bottom .right ul li a {
+  color: #0b0a0a;
+}

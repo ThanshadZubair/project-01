@@ -799,3 +799,124 @@ div.button-bottom {
 #bottom .right ul li a {
   color: #0b0a0a;
 }
+
+/* RESPONSIVE */
+
+@media all and (max-width: 1280px) {
+  .bottom .container h1 {
+    font-size: 50px;
+    width: 55%;
+  }
+  .bottom .container p {
+    font-size: 13px;
+    width: 40%;
+    margin-bottom: 24px;
+  }
+  .bottom .container .btn-div .button {
+    font-size: 18px;
+    border-radius: 18px;
+  }
+  .sticker div.four {
+    right: 242px;
+    top: 113px;
+  }
+  .sticker div.three {
+    right: 373px;
+    top: 71px;
+  }
+  .sticker div.two {
+    right: 515px;
+    top: 111px;
+  }
+  .sticker div.one {
+    position: absolute;
+    transform: rotate(-15deg);
+    left: 199px;
+    top: 83px;
+  }
+  #open .tab h1 {
+    padding: 29px 0;
+    font-size: 57;
+  }
+  #open .tab .search {
+    margin-left: 42%;
+    width: 18%;
+  }
+  #open .tab .right {
+    right: 282px;
+  }
+  #open .tab .left {
+    left: 288px;
+  }
+  #open .tab p {
+    margin: 44px 0 0 345px;
+    padding: 70px 0;
+    width: 38%;
+    font-size: 13px;
+  }
+  #images .find h3 {
+    font-size: 37px;
+  }
+  #images .find h3 span {
+    font-size: 37px;
+  }
+  #images .find h4 {
+    font-size: 39px;
+    margin-left: 15%;
+    padding-top: 35px;
+    padding-bottom: 6px;
+  }
+  #images section.find div.container {
+    width: 66%;
+  }
+  #platform h1 {
+    font-size: 50px;
+    padding-top: 22px;
+  }
+  #platform .trend .fig div {
+    border-radius: 36px;
+    width: 92px;
+    height: 81px;
+    margin-right: 25px;
+  }
+  #platform .trend .fig div.facebook img {
+    width: 54px;
+    top: 15px;
+    right: 20px;
+  }
+  #platform .trend .fig .twitter img {
+    width: 65px;
+    top: 10px;
+    right: 10px;
+  }
+  #platform .trend .fig .dribble img {
+    width: 54px;
+    top: 15px;
+    right: 20px;
+  }
+  #platform .trend .fig .git img {
+    width: 54px;
+    top: 15px;
+    right: 20px;
+  }
+  #platform .trend .fig .company img {
+    width: 52px;
+    top: 15px;
+    right: 20px;
+  }
+  #platform .trend .fig .pinrest img {
+    width: 54px;
+    top: 15px;
+    right: 19px;
+  }
+  #platform .trend .fig .linkedin img {
+    width: 49px;
+    top: 17px;
+    right: 21px;
+  }
+  #platform .trend .fig .vk img {
+    width: 51px;
+    top: 16px;
+    right: 21px;
+  }
+}

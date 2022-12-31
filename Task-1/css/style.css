@@ -580,3 +580,155 @@ div.platform-button button {
   border-radius: 35px;
   width: 12%;
 }
+#deal {
+  background: #0b0a0a;
+  height: 865px;
+}
+#deal .wrapper h2 {
+  text-align: center;
+  color: #fff;
+  padding: 6%;
+  font-size: 40px;
+  font-weight: bold;
+}
+#deal .wrapper div.bottom-deal {
+  display: flex;
+  margin-left: 35%;
+}
+#deal .wrapper div.mm {
+  padding: 3%;
+  color: #fff;
+}
+#deal .wrapper div.nn {
+  width: 9%;
+}
+#deal .wrapper div.nn img {
+  width: 100%;
+}
+#deal .wrapper div.kk {
+  padding: 3%;
+  color: gray;
+}
+#deal .wrapper div.ll {
+  padding: 3%;
+}
+#deal .wrapper div.ll img {
+  width: 60%;
+}
+#deal div.deal-bottom {
+  display: flex;
+}
+#deal div.deal-bottom div.one {
+  width: 30%;
+  background: #fff;
+  margin-right: 3%;
+  margin-left: 3%;
+  height: 500px;
+  padding: 3%;
+  border-radius: 20px;
+}
+#deal div.one h1 {
+  font-size: 35px;
+  font-weight: bold;
+}
+#deal div.one nav {
+  margin-top: 2%;
+}
+#deal div.one span b {
+  font-size: 40px;
+  font-weight: bold;
+}
+div.one hr.line {
+  border-bottom: 2px solid #cfcdcd;
+  margin-top: 5%;
+}
+div.one ul {
+  margin-top: 20px;
+}
+div.one ul li {
+  margin-top: 5%;
+}
+div.button-bottom {
+  background: greenyellow;
+  margin-top: 60%;
+  padding: 5%;
+  text-align: center;
+  border-radius: 35px;
+}
+div.deal-bottom div.two {
+  width: 30%;
+  background: greenyellow;
+  margin-right: 3%;
+  margin-left: 3%;
+  height: 500px;
+  padding: 3%;
+  border-radius: 20px;
+}
+div.two h1 {
+  font-size: 35px;
+  font-weight: bold;
+}
+div.two nav {
+  margin-top: 2%;
+}
+div.two span b {
+  font-size: 40px;
+  font-weight: bold;
+}
+div.two hr.line {
+  border-bottom: 2px solid #cfcdcd;
+  margin-top: 5%;
+}
+div.two ul {
+  margin-top: 20px;
+}
+div.two ul li {
+  margin-top: 10px;
+}
+div.button-bottom-two {
+  background: #000;
+  margin-top: 60%;
+  padding: 5%;
+  text-align: center;
+  border-radius: 35px;
+}
+div.button-bottom-two a.button {
+  color: #fff;
+}
+div.deal-bottom div.three {
+  width: 30%;
+  background: #fff;
+  margin-right: 3%;
+  margin-left: 3%;
+  height: 500px;
+  padding: 3%;
+  border-radius: 20px;
+}
+div.three h1 {
+  font-size: 35px;
+  font-weight: bold;
+}
+div.three nav {
+  margin-top: 2%;
+}
+div.three span b {
+  font-size: 40px;
+  font-weight: bold;
+}
+div.three hr.line {
+  border-bottom: 2px solid #cfcdcd;
+  margin-top: 5%;
+}
+div.three ul {
+  margin-top: 20px;
+}
+div.three ul li {
+  margin-top: 10px;
+}
+div.button-bottom {
+  background: greenyellow;
+  margin-top: 60%;
+  padding: 5%;
+  text-align: center;
+  border-radius: 35px;
+}

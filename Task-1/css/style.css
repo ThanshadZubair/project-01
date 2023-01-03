@@ -222,7 +222,7 @@ header .wrapper section.head .right ul li a.button {
 .sticker div.one {
   position: absolute;
   transform: rotate(-15deg);
-  left: 310px;
+  left: 333px;
   top: 109px;
 }
 .sticker div.one img {
@@ -232,8 +232,8 @@ header .wrapper section.head .right ul li a.button {
 .sticker div.two {
   position: absolute;
   transform: rotate(-1eg);
-  right: 676px;
-  top: 130px;
+  right: 675px;
+  top: 135px;
 }
 .sticker div.two img {
   width: 203px;
@@ -435,7 +435,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig {
   display: flex;
   padding: 50px;
-  margin-left: 1%;
+  margin-left: 6%;
 }
 #platform .trend .fig div {
   background: #fff;
@@ -455,7 +455,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig div.facebook img {
   width: 80px;
   top: 18px;
-  right: 21px;
+  right: 15px;
   position: absolute;
 }
 
@@ -466,7 +466,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .twitter img {
   width: 80px;
   top: 18px;
-  right: 21px;
+  right: 15px;
   position: absolute;
 }
 
@@ -476,7 +476,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .dribble img {
   width: 80px;
   top: 18px;
-  right: 21px;
+  right: 15px;
   position: absolute;
 }
 
@@ -486,7 +486,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .git img {
   width: 80px;
   top: 18px;
-  right: 21px;
+  right: 15px;
   position: absolute;
 }
 
@@ -496,7 +496,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .company img {
   width: 80px;
   top: 18px;
-  right: 21px;
+  right: 15px;
   position: absolute;
 }
 
@@ -506,7 +506,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .pinrest img {
   width: 80px;
   top: 18px;
-  right: 21px;
+  right: 15px;
   position: absolute;
 }
 
@@ -516,7 +516,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .linkedin img {
   width: 80px;
   top: 18px;
-  right: 21px;
+  right: 15px;
   position: absolute;
 }
 
@@ -526,7 +526,7 @@ header .wrapper section.head .right ul li a.button {
 #platform .trend .fig .vk img {
   width: 80px;
   top: 18px;
-  right: 21px;
+  right: 15px;
   position: absolute;
 }
 
@@ -756,7 +756,7 @@ div.button-bottom {
   color: rgb(45 255 45);
 }
 
-#footer .button {
+#footer .foot .button {
   font-size: 15px;
   background: #0b0a0a;
   border-radius: 25px;
@@ -803,6 +803,10 @@ div.button-bottom {
 /* RESPONSIVE */
 
 @media all and (max-width: 1280px) {
+  header {
+    background: url(../Assets/spot\ light.jpg);
+    height: 716px;
+  }
   .bottom .container h1 {
     font-size: 50px;
     width: 55%;
@@ -817,21 +821,21 @@ div.button-bottom {
     border-radius: 18px;
   }
   .sticker div.four {
-    right: 242px;
+    right: 326px;
     top: 113px;
   }
   .sticker div.three {
-    right: 373px;
+    right: 504px;
     top: 71px;
   }
   .sticker div.two {
-    right: 515px;
+    right: 620px;
     top: 111px;
   }
   .sticker div.one {
     position: absolute;
     transform: rotate(-15deg);
-    left: 199px;
+    left: 248px;
     top: 83px;
   }
   #open .tab h1 {

@@ -127,6 +127,8 @@ header .wrapper section.head .left h1 a {
 
 header .wrapper section.head .left h1 a img {
   color: #fff;
+  display: block;
+  width: 100%;
 }
 
 header .wrapper section.head .middle {
@@ -951,5 +953,62 @@ div.button-bottom {
     margin-top: -26px;
   }
 }
-@media all and(max-width:1080px) {
+@media all and (max-width: 1080px) {
+  header .wrapper section.head .left {
+    width: 187px;
+  }
+  .sticker div.four img {
+    width: 193px;
+  }
+  .sticker div.four {
+    right: 242px;
+    top: 89px;
+  }
+  .sticker div.three {
+    right: 365px;
+    top: 46px;
+  }
+  .sticker div.two {
+    right: 477px;
+  }
+  #open .tab p {
+    width: 32%;
+  }
+  #open {
+    height: 39vh;
+  }
+  #platform .trend .fig div.facebook img {
+    right: 12px;
+  }
+  #platform .trend .fig .twitter img {
+    width: 59px;
+    right: 7px;
+  }
+  #platform .trend .fig .dribble img {
+    right: 13px;
+  }
+  #platform .trend .fig .git img {
+    right: 13px;
+  }
+  #platform .trend .fig .company img {
+    right: 13px;
+  }
+  #platform .trend .fig .pinrest img {
+    right: 11px;
+  }
+  #platform .trend .fig .linkedin img {
+    right: 14px;
+  }
+  #platform .trend .fig .vk img {
+    right: 13px;
+  }
+  #footer {
+    height: 40vh;
+  }
+  #deal {
+    height: 784px;
+  }
+  #footer .foot .button {
+    margin-left: 374px;
+  }
 }

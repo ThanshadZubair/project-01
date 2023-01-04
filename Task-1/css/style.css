@@ -757,13 +757,15 @@ div.button-bottom {
 }
 
 #footer .foot .button {
+  display: inline-block;
   font-size: 15px;
   background: #0b0a0a;
   border-radius: 25px;
-  width: 20px;
+  width: 120px;
   padding: 15px 30px;
   margin-left: 47%;
   color: #fff;
+  margin-top: 45px;
 }
 #bottom {
   display: flex;
@@ -825,7 +827,7 @@ div.button-bottom {
   }
   .sticker div.four {
     right: 326px;
-    top: 113px;
+    top: 95px;
   }
   .sticker div.three img {
     width: 196px;
@@ -943,7 +945,7 @@ div.button-bottom {
   }
   #footer .foot h1 {
     font-size: 47px;
-    width: 53px;
+    width: 53%;
     padding: 4px;
     margin-left: 28%;
     margin-top: -26px;

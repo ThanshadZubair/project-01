@@ -820,23 +820,38 @@ div.button-bottom {
     font-size: 18px;
     border-radius: 18px;
   }
+  .sticker div.four img {
+    width: 196px;
+  }
   .sticker div.four {
     right: 326px;
     top: 113px;
   }
+  .sticker div.three img {
+    width: 196px;
+  }
   .sticker div.three {
-    right: 504px;
-    top: 71px;
+    right: 417px;
+    top: 53px;
+  }
+  .sticker div.two img {
+    width: 196px;
   }
   .sticker div.two {
-    right: 620px;
-    top: 111px;
+    right: 566px;
+    top: 94px;
+  }
+  .sticker div.one img {
+    width: 196;
   }
   .sticker div.one {
     position: absolute;
     transform: rotate(-15deg);
-    left: 248px;
-    top: 83px;
+    left: 174px;
+    top: 65px;
+  }
+  #open {
+    height: 89vh;
   }
   #open .tab h1 {
     padding: 29px 0;
@@ -886,7 +901,7 @@ div.button-bottom {
   #platform .trend .fig div.facebook img {
     width: 54px;
     top: 15px;
-    right: 20px;
+    right: 16px;
   }
   #platform .trend .fig .twitter img {
     width: 65px;
@@ -896,31 +911,43 @@ div.button-bottom {
   #platform .trend .fig .dribble img {
     width: 54px;
     top: 15px;
-    right: 20px;
+    right: 16px;
   }
   #platform .trend .fig .git img {
     width: 54px;
     top: 15px;
-    right: 20px;
+    right: 16px;
   }
   #platform .trend .fig .company img {
     width: 52px;
     top: 15px;
-    right: 20px;
+    right: 17px;
   }
   #platform .trend .fig .pinrest img {
     width: 54px;
     top: 15px;
-    right: 19px;
+    right: 16px;
   }
   #platform .trend .fig .linkedin img {
     width: 49px;
     top: 17px;
-    right: 21px;
+    right: 18px;
   }
   #platform .trend .fig .vk img {
     width: 51px;
     top: 16px;
-    right: 21px;
+    right: 18px;
   }
+  #footer {
+    height: 102vh;
+  }
+  #footer .foot h1 {
+    font-size: 47px;
+    width: 53px;
+    padding: 4px;
+    margin-left: 28%;
+    margin-top: -26px;
+  }
+}
+@media all and(max-width:1080px) {
 }

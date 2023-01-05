@@ -1314,3 +1314,137 @@ div.button-bottom {
     padding: 12px 30px;
   }
 }
+@media all and (max-width: 640px) {
+  .sticker div.four img {
+    width: 122px;
+  }
+  header {
+    height: 620px;
+  }
+  .sticker div.one img {
+    width: 112px;
+  }
+  .sticker div.three img {
+    width: 112px;
+  }
+  .sticker div.two img {
+    width: 106px;
+  }
+  .sticker div.four {
+    right: 134px;
+    top: 51px;
+  }
+  .sticker div.one {
+    left: 313px;
+    top: 43px;
+  }
+  .sticker div.three {
+    right: 226px;
+    top: 26px;
+  }
+  .sticker div.two {
+    right: 316px;
+    top: 48px;
+  }
+  #open .tab .left {
+    left: 83px;
+  }
+  #open .tab .right {
+    right: 103px;
+  }
+  #open .tab .left img {
+    width: 69px;
+  }
+  #open .tab .right img {
+    width: 69px;
+  }
+  #open .tab .search img {
+    width: 47px;
+    margin-top: -1px;
+    margin-left: -22px;
+  }
+  #open .tab .search {
+    padding: 13px 42px 12px 42px;
+  }
+  #open .tab h1 {
+    font-size: 34px;
+  }
+  #open .tab p {
+    margin-left: 152px;
+    margin: 15px auto -45px;
+  }
+  #platform .trend .fig {
+    padding: 13px;
+    margin-left: 9%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 60%;
+  }
+  #platform .trend .fig div {
+    border-radius: 40px;
+  }
+  #platform .trend .fig div.facebook img {
+    right: 27px;
+  }
+  #platform .trend .fig .dribble img {
+    right: 27px;
+  }
+  #platform .trend .fig .twitter img {
+    right: 24px;
+  }
+  #platform .trend .fig .company img {
+    right: 28px;
+  }
+  #platform .trend .fig .linkedin img {
+    width: 34px;
+    top: 13px;
+    right: 27px;
+  }
+  #platform .trend .fig .linkedin img {
+    right: 27px;
+  }
+  #platform .trend .fig .git img {
+    right: 26px;
+  }
+  #platform .trend .fig .pinrest img {
+    right: 25px;
+  }
+  #platform .trend .fig .vk img {
+    right: 26px;
+  }
+  #platform .trend .fig {
+    margin-left: 21%;
+  }
+  #deal div.one h1 {
+    font-size: 22px;
+  }
+  div.two h1 {
+    font-size: 20px;
+  }
+  div.two span b {
+    font-size: 24px;
+  }
+  #deal div.one span b {
+    font-size: 33px;
+  }
+  #deal div.one span b {
+    font-size: 33px;
+  }
+  div.three h1 {
+    font-size: 23px;
+  }
+  div.three span b {
+    font-size: 31px;
+  }
+  #footer .foot .button {
+    margin-left: 158px;
+  }
+  #bottom .left img {
+    margin-left: -59%;
+    width: 146%;
+  }
+  #deal {
+    height: 602px;
+  }
+}

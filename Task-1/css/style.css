@@ -1147,3 +1147,170 @@ div.button-bottom {
     margin-left: 314px;
   }
 }
+@media all and (max-width: 768px) {
+  header .wrapper section.head .left h1 a img {
+    width: 93%;
+  }
+  header .wrapper section.head .middle {
+    display: none;
+  }
+  header .wrapper section.head .right ul li {
+    margin-left: -226px;
+  }
+  .container h1 {
+    font-size: 32px;
+    width: 65%;
+  }
+  .sticker div.one img {
+    width: 171px;
+  }
+  .sticker div.one {
+    left: 381px;
+  }
+  .sticker div.four img {
+    width: 181px;
+  }
+  .sticker div.four {
+    right: 227px;
+    top: 77px;
+  }
+  .sticker div.three img {
+    width: 187px;
+  }
+  .sticker div.three {
+    right: 329px;
+    top: 37px;
+  }
+  .sticker div.two img {
+    width: 178px;
+  }
+  .sticker div.two {
+    right: 450px;
+    top: 75px;
+  }
+  #open .tab .left {
+    left: 139px;
+  }
+  #open .tab .left img {
+    width: 99px;
+  }
+  #open .tab .right img {
+    width: 101px;
+  }
+  #open .tab .right {
+    right: 143px;
+  }
+  #open .tab .search img {
+    width: 225%;
+    margin-top: -23px;
+    margin-left: -19px;
+  }
+  #open .tab .search {
+    width: 18%;
+    margin-left: 40%;
+    border-radius: 31px;
+    padding: 38px 42px 37px 42px;
+  }
+  #open .tab p {
+    margin-left: 200px;
+  }
+  #images .find h4 {
+    font-size: 30px;
+  }
+  #platform h1 {
+    font-size: 34px;
+  }
+  #platform .trend .fig {
+    padding: 14px;
+    margin-left: 6%;
+  }
+  #platform .trend .fig div.facebook img {
+    width: 37px;
+    top: 11px;
+    right: 6px;
+  }
+  #platform .trend .fig .twitter img {
+    width: 39px;
+    top: 10px;
+    right: 3px;
+  }
+  #platform .trend .fig .dribble img {
+    width: 36px;
+    right: 6px;
+  }
+  #platform .trend .fig .git img {
+    width: 39px;
+    top: 11px;
+    right: 5px;
+  }
+  #platform .trend .fig .company img {
+    width: 36px;
+    top: 12px;
+    right: 6px;
+  }
+  #platform .trend .fig .pinrest img {
+    width: 40px;
+    top: 11px;
+    right: 4px;
+  }
+  #platform .trend .fig .linkedin img {
+    width: 34px;
+    top: 13px;
+    right: 6px;
+  }
+  #platform .trend .fig .vk img {
+    width: 36px;
+    top: 12px;
+    right: 6px;
+  }
+  #deal div.one h1 {
+    font-size: 26px;
+  }
+  #deal div.deal-bottom div.one {
+    width: 27%;
+    margin-right: 1%;
+    height: 427px;
+    padding: 2%;
+  }
+  div.button-bottom {
+    margin-top: 8%;
+    padding: 0%;
+    border-radius: 38px;
+  }
+  div.two h1 {
+    font-size: 25px;
+  }
+  div.deal-bottom div.two {
+    width: 29%;
+    margin-left: 0%;
+    height: 428px;
+    padding: 3%;
+    border-radius: 18px;
+  }
+  div.button-bottom-two {
+    margin-top: 1%;
+    padding: 0%;
+  }
+  div.deal-bottom div.three {
+    width: 30%;
+    margin-left: -2%;
+    height: 429px;
+    padding: 3%;
+    border-radius: 18px;
+  }
+  .button {
+    margin-left: -6px;
+  }
+  #deal {
+    height: 634px;
+  }
+  #footer .foot h1 {
+    font-size: 35px;
+  }
+  #footer .foot .button {
+    margin-top: 12px;
+    margin-left: 189px;
+    width: 104px;
+    padding: 12px 30px;
+  }
+}

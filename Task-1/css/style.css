@@ -221,11 +221,13 @@ header .wrapper section.head .right ul li a.button {
 .sticker {
   position: relative;
   text-align: center;
+  width: 103%;
+  margin: 0 auto;
 }
 .sticker div.one {
   position: absolute;
   transform: rotate(-15deg);
-  left: 333px;
+  right: 870px;
   top: 109px;
 }
 .sticker div.one img {
@@ -264,7 +266,7 @@ header .wrapper section.head .right ul li a.button {
 }
 #open {
   background: #a6ff34;
-  height: 80vh;
+  height: 76vh;
 }
 
 #open .tab {
@@ -312,11 +314,11 @@ header .wrapper section.head .right ul li a.button {
 
 #open .tab p {
   text-align: center;
-  margin: 149px 0 0 347px;
+  margin: 68px 0 0 404px;
   padding: 69px 0;
   color: #8e8e8e;
   text-align: center;
-  width: 50%;
+  width: 40%;
 }
 #images {
 }
@@ -585,7 +587,7 @@ div.platform-button button {
 }
 #deal {
   background: #0b0a0a;
-  height: 865px;
+  height: 874px;
 }
 #deal .wrapper h2 {
   text-align: center;
@@ -622,11 +624,11 @@ div.platform-button button {
   display: flex;
 }
 #deal div.deal-bottom div.one {
-  width: 30%;
+  width: 22%;
   background: #fff;
   margin-right: 3%;
-  margin-left: 3%;
-  height: 500px;
+  margin-left: 9%;
+  height: 448px;
   padding: 3%;
   border-radius: 20px;
 }
@@ -653,17 +655,17 @@ div.one ul li {
 }
 div.button-bottom {
   background: greenyellow;
-  margin-top: 60%;
+  margin-top: 15%;
   padding: 5%;
   text-align: center;
   border-radius: 35px;
 }
 div.deal-bottom div.two {
-  width: 30%;
+  width: 22%;
   background: greenyellow;
   margin-right: 3%;
-  margin-left: 3%;
-  height: 500px;
+  margin-left: 4%;
+  height: 448px;
   padding: 3%;
   border-radius: 20px;
 }
@@ -690,7 +692,7 @@ div.two ul li {
 }
 div.button-bottom-two {
   background: #000;
-  margin-top: 60%;
+  margin-top: 15%;
   padding: 5%;
   text-align: center;
   border-radius: 35px;
@@ -699,11 +701,11 @@ div.button-bottom-two a.button {
   color: #fff;
 }
 div.deal-bottom div.three {
-  width: 30%;
+  width: 22%;
   background: #fff;
   margin-right: 3%;
-  margin-left: 3%;
-  height: 500px;
+  margin-left: 4%;
+  height: 448px;
   padding: 3%;
   border-radius: 20px;
 }
@@ -727,13 +729,6 @@ div.three ul {
 }
 div.three ul li {
   margin-top: 10px;
-}
-div.button-bottom {
-  background: greenyellow;
-  margin-top: 60%;
-  padding: 5%;
-  text-align: center;
-  border-radius: 35px;
 }
 #footer {
   background: #a6ff34;
@@ -984,43 +979,40 @@ div.button-bottom {
     margin: 94px auto -45px;
     margin-left: 325px;
   }
-}
-#open {
-  height: 61vh;
-}
-#platform .trend .fig div.facebook img {
-  right: 12px;
-}
-#platform .trend .fig .twitter img {
-  width: 59px;
-  right: 7px;
-}
-#platform .trend .fig .dribble img {
-  right: 13px;
-}
-#platform .trend .fig .git img {
-  right: 13px;
-}
-#platform .trend .fig .company img {
-  right: 13px;
-}
-#platform .trend .fig .pinrest img {
-  right: 11px;
-}
-#platform .trend .fig .linkedin img {
-  right: 14px;
-}
-#platform .trend .fig .vk img {
-  right: 13px;
-}
-#footer {
-  height: 63vh;
-}
-#deal {
-  height: 784px;
-}
-#footer .foot .button {
-  margin-left: 374px;
+  #open {
+    height: 61vh;
+  }
+  #platform .trend .fig div.facebook img {
+    right: 12px;
+  }
+  #platform .trend .fig .twitter img {
+    width: 59px;
+    right: 7px;
+  }
+  #platform .trend .fig .dribble img {
+    right: 13px;
+  }
+  #platform .trend .fig .git img {
+    right: 13px;
+  }
+  #platform .trend .fig .company img {
+    right: 13px;
+  }
+  #platform .trend .fig .pinrest img {
+    right: 11px;
+  }
+  #platform .trend .fig .linkedin img {
+    right: 14px;
+  }
+  #platform .trend .fig .vk img {
+    right: 13px;
+  }
+  #footer {
+    height: 63vh;
+  }
+  #deal {
+    height: 784px;
+  }
 }
 
 @media all and (max-width: 980px) {

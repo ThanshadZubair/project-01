@@ -979,6 +979,9 @@ div.three ul li {
   #open {
     height: 61vh;
   }
+  .bottom .container p {
+    text-align: center;
+  }
   #platform .trend .fig div.facebook img {
     right: 12px;
   }
@@ -1009,6 +1012,9 @@ div.three ul li {
   }
   #deal {
     height: 784px;
+  }
+  .sticker div.one {
+    left: 207px;
   }
 }
 
@@ -1134,6 +1140,24 @@ div.three ul li {
   }
   .button {
     margin-left: 314px;
+  }
+  #deal div.deal-bottom div.one {
+    padding: 2%;
+  }
+  #deal div.one h1 {
+    font-size: 30px;
+  }
+  .button {
+    margin-left: 3px;
+  }
+  div.two h1 {
+    font-size: 28px;
+  }
+  div.three h1 {
+    font-size: 27px;
+  }
+  div.button-bottom {
+    margin-top: 16%;
   }
 }
 @media all and (max-width: 768px) {

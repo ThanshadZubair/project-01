@@ -227,7 +227,7 @@ header .wrapper section.head .right ul li a.button {
 .sticker div.one {
   position: absolute;
   transform: rotate(-15deg);
-  right: 870px;
+  left: 380px;
   top: 109px;
 }
 .sticker div.one img {
@@ -847,8 +847,8 @@ div.three ul li {
   .sticker div.one {
     position: absolute;
     transform: rotate(-15deg);
-    left: 223px;
-    top: 65px;
+    left: 264px;
+    top: 69px;
   }
   #open {
     height: 89vh;
@@ -967,9 +967,6 @@ div.three ul li {
   }
   .sticker div.two {
     right: 477px;
-  }
-  .sticker div.one {
-    left: 186px;
   }
   #open .tab .right {
     right: 267px;

@@ -201,6 +201,8 @@ header .wrapper section.head .right ul li a.button {
 .bottom .container .btn-div {
   text-align: center;
 }
+.bottom .container .btn-div img {
+}
 .bottom .container .btn-div .button {
   font-size: 20px;
   background: #a6ff34;
@@ -1141,6 +1143,9 @@ div.three ul li {
   .button {
     margin-left: 314px;
   }
+  #deal {
+    height: 706px;
+  }
   #deal div.deal-bottom div.one {
     padding: 2%;
   }
@@ -1459,5 +1464,173 @@ div.three ul li {
   }
   #deal {
     height: 602px;
+  }
+}
+@media all and (max-width: 480px) {
+  header .wrapper section.head .right ul li a.button {
+    padding: 4px 6px;
+  }
+  header .wrapper section.head .right ul li {
+    margin-left: -145px;
+  }
+  .bottom .container h1 {
+    font-size: 20px;
+    width: 84%;
+  }
+  .bottom .container .btn-div img {
+    width: 59px;
+  }
+  .bottom .container .btn-div .button {
+    font-size: 10px;
+    padding-bottom: 7px;
+    padding-top: 1px;
+    margin-left: 75px;
+  }
+  .bottom .container .button span img {
+    width: 15px;
+  }
+  .sticker div.one {
+    left: 226px;
+    top: 34px;
+  }
+  .sticker div.four {
+    right: 105px;
+    top: 41px;
+  }
+  .sticker div.three {
+    right: 163px;
+    top: 19px;
+  }
+  .sticker div.two {
+    right: 235px;
+    top: 41px;
+  }
+  header {
+    height: 502px;
+  }
+  #open .tab h1 {
+    font-size: 24px;
+  }
+  #open .tab .right img {
+    width: 63px;
+  }
+  #open .tab .right {
+    right: 60px;
+    top: 547px;
+  }
+  #open .tab .left img {
+    width: 67px;
+  }
+  #open .tab .left {
+    left: 71px;
+    top: 549px;
+  }
+  #images .find h3 {
+    font-size: 18px;
+  }
+  #images .find h3 span {
+    font-size: 18px;
+  }
+  #images .find h4 {
+    font-size: 15px;
+  }
+  #images section.find div.container {
+    margin-left: 88px;
+    width: 66%;
+  }
+  #images section.find div.container div {
+    width: 31%;
+  }
+  #platform h1 {
+    font-size: 19px;
+  }
+  #platform .trend .fig {
+    margin-left: 33%;
+  }
+  #platform .trend .fig {
+    margin-left: 33%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 279px;
+    margin-left: 54px;
+  }
+  #platform .trend .post .one img {
+    width: 135%;
+    margin-left: -77px;
+  }
+  #platform .trend .post .two img {
+    margin-left: -76px;
+    width: 135%;
+  }
+  #platform .trend .post .three img {
+    width: 135%;
+    margin-left: -76px;
+  }
+  div.platform-button button {
+    padding: 2%;
+    width: 21%;
+  }
+  #deal .wrapper h2 {
+    font-size: 23px;
+  }
+  #deal .wrapper div.mm {
+    padding: 3%;
+    margin-left: -74px;
+    font-size: 13px;
+  }
+  #deal .wrapper div.nn img {
+    width: 232%;
+    margin-left: 10px;
+  }
+  #deal .wrapper div.kk {
+    padding: 3%;
+    font-size: 13px;
+    margin-left: 33px;
+  }
+  #deal div.deal-bottom {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -14px;
+  }
+  div.deal-bottom div.three {
+    width: 107%;
+    height: 381px;
+    margin-left: 18px;
+  }
+  div.deal-bottom div.two {
+    width: 123%;
+    height: 373px;
+    margin-left: 21px;
+    margin-bottom: 23px;
+  }
+  #deal div.deal-bottom div.one {
+    width: 133%;
+    height: 380px;
+    margin-left: 22px;
+    margin-bottom: 31px;
+  }
+  #deal {
+    height: 1323px;
+  }
+  div.button-bottom-two {
+    margin-top: 9%;
+  }
+  #footer .foot h1 {
+    font-size: 22px;
+  }
+  #footer .foot h1 span {
+    font-size: 22px;
+  }
+  #footer .foot .button {
+    margin-left: 83px;
+    width: 107px;
+    padding: 5px 23px;
+  }
+  #footer {
+    height: 37vh;
+  }
+  #bottom {
+    padding: 19px 31px;
+    font-size: 11px;
   }
 }

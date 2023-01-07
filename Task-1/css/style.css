@@ -1634,3 +1634,45 @@ div.three ul li {
     font-size: 11px;
   }
 }
+@media all and (max-width: 360px) {
+  .sticker div.one {
+    left: 201px;
+  }
+  .sticker div.four {
+    right: 93px;
+  }
+  .sticker div.three {
+    right: 149px;
+    top: 15px;
+  }
+  .sticker div.two {
+    right: 220px;
+  }
+  #open .tab .right {
+    right: 41px;
+  }
+  #open .tab .left {
+    left: 63px;
+  }
+  #open .tab p {
+    font-size: 11px;
+  }
+  #images .find h4 {
+    margin-left: 30px;
+  }
+  #platform .trend .fig {
+    margin-left: 37px;
+  }
+  #platform .trend .post .one img {
+    margin-left: -68px;
+  }
+  #platform .trend .post .two img {
+    margin-left: -67px;
+  }
+  #platform .trend .post .three img {
+    margin-left: -67px;
+  }
+  #deal div.deal-bottom div.one {
+    width: 89%;
+  }
+}
